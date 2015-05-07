@@ -1,0 +1,4 @@
+Disallow: /adm
+Disallow: /filt
+Disallow: /nod
+Disallow: /use
